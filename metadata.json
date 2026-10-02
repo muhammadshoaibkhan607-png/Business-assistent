@@ -1,0 +1,7 @@
+{
+  "name": "OmniPulse AI - Autonomous Business & Support Assistant",
+  "description": "Production-grade AI Business Assistant platform for customer support automation, knowledge base grounding, intent classification, and repetitive workflow automation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
